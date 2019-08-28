@@ -1,0 +1,6 @@
+/node_modules
+.idea
+constants.js*
+screen_initial.png
+screen_new.png
+diff.png
